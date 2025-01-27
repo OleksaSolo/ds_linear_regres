@@ -1,5 +1,5 @@
-# ds_classif_asses
-Classification and assessment of model performance
+# ds_linear_regres
+Classification and assessment of model performance. Linear regression: retraining and regularization.
 
 The task of classification is one of the key tasks of machine learning, in which the model learns to determine the category to which the input object belongs. The main goal is to classify objects into previously known categories based on a set of features.
 
