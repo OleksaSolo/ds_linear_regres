@@ -10,3 +10,4 @@ Quality metrics can be used to:
 - Selection of hyperparameters (used when measuring quality on cross-validation). In this case, you can use another metric that differs from the metric with which the error functional is constructed.
 - Evaluation of the final model: whether the model is suitable for solving the problem.
 
+
